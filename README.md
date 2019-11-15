@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: Client-Side routing means the page doesn't necessarily go through a reload each time a change is made, only making changes on the screen without sending HTTP requests. This is useful for the sake of not overusing data, which would rack up charges on AWS or somethign similar.
 
 ## Project Set Up
 
